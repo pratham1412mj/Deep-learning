@@ -10,3 +10,6 @@ Some notes:
 2.When it reaches 99% or greater it should print out the string "Reached 99% accuracy so cancelling training!"
 
 3.If you add any additional variables, make sure you use the same names as the ones used in the class
+
+
+And the basic without callbacks on "fashion_MNIST" dataset.
